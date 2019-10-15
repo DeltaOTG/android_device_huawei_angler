@@ -50,7 +50,7 @@ setup_vendor "$DEVICE" "$VENDOR" "$REPO_ROOT"
 write_headers
 
 # The standard blobs
-write_makefiles "$MY_DIR"/lineage-proprietary-blobs.txt
+write_makefiles "$MY_DIR"/deltaotg-proprietary-blobs.txt
 
 # We are done!
 write_footers
